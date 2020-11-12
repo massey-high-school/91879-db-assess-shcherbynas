@@ -3,18 +3,18 @@
 ?>     
         
         <div class="box main">
-            <h2>Welcome to </h2>
+            <h2>Welcome to Food Fusion Planet</h2>
             
             <p>
-                Sugar plum powder dessert bonbon powder lollipop lollipop muffin I love. Tiramisu dessert I love sugar plum apple pie marzipan chocolate bar brownie. Pudding tiramisu caramels biscuit tiramisu. I love gummies gummies pie sweet pudding I love I love. Donut halvah candy oat cake donut. Caramels wafer danish jelly-o.
+                Having a varied diet means eating a wide variety of different foods from the different food groups, as well as within each food group. Each food group offers a wide range of choices and each one has a unique nutritional value.
             </p>
             
             <p>
-                Jelly beans gingerbread jelly tootsie roll. Lemon drops bear claw I love tiramisu candy canes cake. Jelly-o apple pie powder tart I    love candy tiramisu. Topping liquorice cake sesame snaps brownie. Lemon drops jelly beans brownie danish I love fruitcake cotton candy danish. Dragée pastry halvah macaroon I love chocolate bar caramels liquorice. Halvah cupcake muffin fruitcake pastry I love bear claw I love jelly. Tart chocolate bar croissant danish jelly. Sugar plum powder cupcake muffin gingerbread I love sweet.
+                Diet diversity is well recognized as a key element of high quality diets, as it helps to ensure nutritional adequacy. When your child eats a variety of foods, it increases the likelihood of him or her getting the many types of nutrients which are important for growth and development. On the other hand, when there’s a lack of variety in your child’s diet (e.g. due to picky eating), it may lead to nutritional gaps.
             </p>
             
             <p>
-                Biscuit jelly I love jelly-o candy canes chupa chups topping lemon drops I love. Sesame snaps macaroon lemon drops carrot cake I love. Chocolate bar gingerbread chupa chups. Dessert chocolate pastry liquorice tootsie roll lemon drops sweet macaroon liquorice. I love muffin bonbon. Cupcake apple pie chocolate cake bonbon topping. Macaroon gummi bears dragée caramels donut chocolate.
+                Your child’s diet may not be as varied as you think if he consumes foods from the different food groups, but only goes for a particular food within each group; or if he eats seemingly many different foods, but they only come from one or two food groups.
             </p>            
             
         </div>    <!-- / main -->
